@@ -1,6 +1,3 @@
-# practico-git-integrador
-Practica
-
 # Práctico Integrador — Git y GitHub
 ## Descripción
 Repositorio de práctica para las clases 1, 2 y 3 de Software Factory.
