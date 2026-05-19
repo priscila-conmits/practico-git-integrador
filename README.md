@@ -13,4 +13,4 @@ Contiene ejercicios de Git, GitHub y Python básico.
 - Python 3
 
 ## Autor
-Desarrollado por [Priscila] — [dominguezpriscila2005@gmail.com](https://github.com/tu-usuario)
+Desarrollado por [Priscila] — [@priscila-conmits]((https://github.com/priscila-conmits))
