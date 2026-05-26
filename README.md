@@ -4,8 +4,9 @@ Repositorio de práctica para las clases 1, 2 y 3 de Software Factory.
 Contiene ejercicios de Git, GitHub y Python básico.
 
 ## Contenido
-- `mi_info.py` — Script con información personal
-- `.gitignore` — Archivos ignorados por Git
+- main.py
+- preguntas.py
+- quiz_git.py
 
 ## Tecnologías
 - Git
