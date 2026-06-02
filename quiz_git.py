@@ -3,6 +3,7 @@ print("=== Quiz de Git ===\n")
 
 score = 0
 
+# Actual (2 espacios):
 r1 = input("1. ¿Git es una herramienta local o en la nube? ")
 if r1.lower() == "local":
   print("✅ ¡Correcto!")
@@ -12,6 +13,7 @@ if r1.lower() == "local":
 else:
   print("❌ Incorrecto. Git es una herramienta LOCAL.")
 
+# Recomendado (4 espacios):
 r2 = input("\n2. ¿Qué comando sube los cambios a GitHub? (git ___) ")
 if r2.lower() == "push":
   print("✅ ¡Correcto!")
